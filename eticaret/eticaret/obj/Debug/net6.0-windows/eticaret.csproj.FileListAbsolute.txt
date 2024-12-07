@@ -1,0 +1,10 @@
+C:\Users\Korhan\source\repos\eticaret\eticaret\obj\Debug\net6.0-windows\eticaret.csproj.AssemblyReference.cache
+C:\Users\Korhan\source\repos\eticaret\eticaret\obj\Debug\net6.0-windows\eticaret.Form1.resources
+C:\Users\Korhan\source\repos\eticaret\eticaret\obj\Debug\net6.0-windows\eticaret.csproj.GenerateResource.cache
+C:\Users\Korhan\source\repos\eticaret\eticaret\obj\Debug\net6.0-windows\eticaret.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korhan\source\repos\eticaret\eticaret\obj\Debug\net6.0-windows\eticaret.AssemblyInfoInputs.cache
+C:\Users\Korhan\source\repos\eticaret\eticaret\obj\Debug\net6.0-windows\eticaret.AssemblyInfo.cs
+C:\Users\Korhan\source\repos\eticaret\eticaret\obj\Debug\net6.0-windows\eticaret.csproj.CoreCompileInputs.cache
+C:\Users\Korhan\source\repos\eticaret\eticaret\obj\Debug\net6.0-windows\eticaret.Form2.resources
+C:\Users\Korhan\source\repos\eticaret\eticaret\obj\Debug\net6.0-windows\eticaret.Form3.resources
+C:\Users\Korhan\source\repos\eticaret\eticaret\obj\Debug\net6.0-windows\eticaret.Form4.resources
